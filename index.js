@@ -17,8 +17,8 @@ var overwriteBestCustomer = function () {
   bestCustomer = 'maybe bob';
 }
 
-const leastFavoriteCustomer = 'initial value';
+const leastFavoriteCustomer = 'Mwanaidi Kitondo';
 
 function changeLeastFavoriteCustomer() {
-  leastFavoriteCustomer = 'new value'; 
+  leastFavoriteCustomer = 'Molly Atsabina'; 
 }
